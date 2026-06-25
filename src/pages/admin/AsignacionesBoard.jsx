@@ -12,6 +12,7 @@ import {
   Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle,
 } from '@/components/ui/dialog'
 import { Separator } from '@/components/ui/separator'
+import { Label } from '@/components/ui/label'
 
 const statusVariant = {
   Pendiente: { variant: 'secondary', label: 'Pendiente' },
